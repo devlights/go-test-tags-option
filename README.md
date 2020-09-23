@@ -1,5 +1,5 @@
 # go-test-tags-option
-This is example that ```go test -tags=xxxx```
+This is example for ```go test -tags=xxxx```
 
 ## Usage
 
